@@ -54,6 +54,8 @@ sr.reveal('.skills__img', { delay: 400 })
 // scroll work
 sr.reveal('.work__img', { interval: 200 })
 
+// scroll services
+sr.reveal('.servicio-ind', { interval: 200 })
 // scroll contact
 sr.reveal('.contact__input', { interval: 200 })
 
